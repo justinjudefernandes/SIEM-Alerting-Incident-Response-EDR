@@ -181,21 +181,21 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/c7f99432-b700-47a4-a5ae-537e30239f37" />
-<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/4ea0ae4d-ac8b-4078-9451-a0fa14518fad" />
-<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/f8894f2e-a899-4914-b356-55d16e93e240" />
-<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/03485cad-d70e-4e51-9672-a71a97cb6c66" />
-<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/345fe0bc-3744-4d53-a886-7550a403afbf" />
-<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/c40a9ee0-9365-4b32-8c8a-7734b2ba81dc" />
-<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/a76c6b8d-8250-452d-85a4-346fa7c7e2fd" />
-<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/b61d9fdd-8536-4cfc-8de9-ef30c1b64324" />
-<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/23aeed32-6824-40ee-82f4-635ca751a54d" />
-<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/adc5fb05-4238-4e80-896e-847198f38c45" />
-<img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/6b83e407-455e-4b0a-a3cd-9bde5cf629e7" />
-<img width="975" height="581" alt="image" src="https://github.com/user-attachments/assets/6ac74e96-e845-48f7-b543-71802f76d033" />
-<img width="975" height="581" alt="image" src="https://github.com/user-attachments/assets/ff6b6468-8466-47c6-9ffd-5639f9b38a76" />
-<img width="975" height="582" alt="image" src="https://github.com/user-attachments/assets/86395ccd-4394-4a8c-9efc-30f8c5233c1b" />
-<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/9c0612d2-c5f8-427e-be8e-c3ebf469a72b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/c7f99432-b700-47a4-a5ae-537e30239f37" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/4ea0ae4d-ac8b-4078-9451-a0fa14518fad" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/f8894f2e-a899-4914-b356-55d16e93e240" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/03485cad-d70e-4e51-9672-a71a97cb6c66" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/345fe0bc-3744-4d53-a886-7550a403afbf" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/c40a9ee0-9365-4b32-8c8a-7734b2ba81dc" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/a76c6b8d-8250-452d-85a4-346fa7c7e2fd" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/b61d9fdd-8536-4cfc-8de9-ef30c1b64324" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/23aeed32-6824-40ee-82f4-635ca751a54d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/adc5fb05-4238-4e80-896e-847198f38c45" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/6b83e407-455e-4b0a-a3cd-9bde5cf629e7" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/6ac74e96-e845-48f7-b543-71802f76d033" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/ff6b6468-8466-47c6-9ffd-5639f9b38a76" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/86395ccd-4394-4a8c-9efc-30f8c5233c1b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/9c0612d2-c5f8-427e-be8e-c3ebf469a72b" />
 
 
 ### 7. Automated Response Action Setup & Testing:
