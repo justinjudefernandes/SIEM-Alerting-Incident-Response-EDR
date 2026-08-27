@@ -110,6 +110,26 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 
 📌 Refer to the below screenshots: (left to right)
 
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/e032a134-9812-4317-88b8-8ac289226c4b" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/3be6d8a4-edab-4b0f-9e47-ee7249220393" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/2226d13c-5c47-43b2-b431-a1f4a01475f3" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/bf3e6a9f-3c36-4c73-add1-723c9e5fa520" />
+<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/106eb86d-d16e-43a0-a83d-f04c1f4e07e8" />
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/cdb8483c-2587-47f5-8bdc-5726b44efa03" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/768dde8b-c529-476c-a94f-2ec67f10bdd6" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/40dceec1-5c4b-41cc-97d2-51d8b30f4bf2" />
+<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/5abcdbd0-e856-47a1-a75f-d6ab71b35fc8" />
+<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/0bb7fefd-89e6-475e-acfc-4269b6363a2d" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/5a703dcb-2a45-470a-aeeb-1bfa2e1dbb36" />
+<img width="975" height="563" alt="image" src="https://github.com/user-attachments/assets/d7675d02-08cf-4dc4-a463-8a5758dd115c" />
+<img width="975" height="557" alt="image" src="https://github.com/user-attachments/assets/9d597680-b785-4518-b435-9d78c6a10dc8" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/ee0cc608-2a2b-4307-adb9-bc26f16583d5" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/cd007896-0a47-4fa2-997f-6436c0304834" />
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/0f9d928f-2028-45cb-8aad-464d2b2d92eb" />
+<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/0ede8908-394e-4021-9d3d-ea1835cd8a32" />
+<img width="975" height="557" alt="image" src="https://github.com/user-attachments/assets/24ee28c1-f8e3-4ede-91a8-1314d79b29d5" />
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/9df80b8e-49c2-4b96-b039-74b2a3052a65" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/0447be6f-b12c-4828-9f86-5c48c6c82d10" />
 
 ### 4. Brute Force Investigation Methodology & Alert Routing
 - Developed a structured investigation methodology for brute force alerts, focusing on:
@@ -124,6 +144,14 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 
 📌 Refer to the below screenshots: (left to right)
 
+<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/43327c82-7fa1-46c3-9cf1-fd263d1d920b" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/8321a279-5a67-4edf-a011-cb5896efb317" />
+<img width="975" height="556" alt="image" src="https://github.com/user-attachments/assets/a63781ec-6cc4-48d3-83ac-3609e9742ebb" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/73db7672-a857-4225-9b89-544696b86f16" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/8682a567-3e85-4179-8bcb-83ce152a5782" />
+<img width="975" height="557" alt="image" src="https://github.com/user-attachments/assets/da98d546-b428-4b9f-b3c0-3f0df272f3a9" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/e5aa7d1f-ecb3-4c63-8273-d4d9ef849b75" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/813ce5e7-3d29-4b9f-ab18-35e5447c37df" />
 
 ### 5. SSH & C2 Detection Rule Alert Routing
 - Configured the SSH brute force detection rule to automatically forward alerts into osTicket.
@@ -134,6 +162,17 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 
 📌 Refer to the below screenshots: (left to right)
 
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/ef865f30-3145-4f15-878a-583c62c5cc8e" />
+<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/49422d92-4c47-433f-ba77-5fc25418555e" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/1514cbe9-b349-4a44-9b23-5cc18d414208" />
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/adec9608-c1dd-4892-ab2c-d5520e0ee802" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/f4ead941-57e4-4ffb-9722-b11f9a823480" />
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/a899f38d-dd00-4193-b84a-830899096057" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/5f51d193-3584-4073-a80d-783636917acd" />
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/84d99784-6352-4954-b139-53c5eae6ed1e" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/6aaffbfb-5ffe-4737-910c-d74272e07d1c" />
+<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/1fb93ace-9397-46ba-b0f3-b600631e99f2" />
+<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/cefc66ae-52cb-4a81-a186-97864d32d764" />
 
 ### 6. Endpoint Detection & Response (EDR) Deployment & Validation
 - Installed and configured Elastic EDR (Elastic Defend) on the Windows endpoint.
@@ -146,5 +185,22 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 - Validated the complete **detection → prevention → automated response → endpoint isolation** workflow.
 
 📌 Refer to the below screenshots: (left to right)
+
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/c7f99432-b700-47a4-a5ae-537e30239f37" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/4ea0ae4d-ac8b-4078-9451-a0fa14518fad" />
+<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/f8894f2e-a899-4914-b356-55d16e93e240" />
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/03485cad-d70e-4e51-9672-a71a97cb6c66" />
+<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/345fe0bc-3744-4d53-a886-7550a403afbf" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/c40a9ee0-9365-4b32-8c8a-7734b2ba81dc" />
+<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/a76c6b8d-8250-452d-85a4-346fa7c7e2fd" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/b61d9fdd-8536-4cfc-8de9-ef30c1b64324" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/23aeed32-6824-40ee-82f4-635ca751a54d" />
+<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/adc5fb05-4238-4e80-896e-847198f38c45" />
+<img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/6b83e407-455e-4b0a-a3cd-9bde5cf629e7" />
+<img width="975" height="581" alt="image" src="https://github.com/user-attachments/assets/6ac74e96-e845-48f7-b543-71802f76d033" />
+<img width="975" height="581" alt="image" src="https://github.com/user-attachments/assets/ff6b6468-8466-47c6-9ffd-5639f9b38a76" />
+<img width="975" height="582" alt="image" src="https://github.com/user-attachments/assets/86395ccd-4394-4a8c-9efc-30f8c5233c1b" />
+<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/9c0612d2-c5f8-427e-be8e-c3ebf469a72b" />
+
 
 
