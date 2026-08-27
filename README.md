@@ -47,7 +47,7 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 
 ## 🔍 Steps Performed:
 
-### 1. Ticketing System Research & Web Server Environment Setup
+### 1. Ticketing System Research & Web Server Environment Setup:
 
 - Researched the role of ticketing systems within security operations, including how platforms such as Jira, ServiceNow, and Freshdesk support alert tracking, incident management, accountability, and analyst workflows.
 - Provisioned a Windows Server 2022 host and deployed XAMPP to establish the required Apache, MySQL, and phpMyAdmin environment.
@@ -77,7 +77,7 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 <img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/b93fd967-07fd-4ddd-8bdc-58dde9a8cd3e" />
 <img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/707f9422-11c6-4332-a911-2f938ff56ca8" />
 
-### 2. osTicket Installation & Configuration
+### 2. osTicket Installation & Configuration:
 
 - Installed osTicket and created the supporting MySQL database.
 - Completed the guided osTicket setup, configuring database connectivity and required file permissions.
@@ -99,9 +99,7 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 <img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/21a99336-d47d-4cbb-b541-f34471952eb5" />
 <img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/916d388d-ccf6-41fd-85db-f696f42a44e1" />
 
-
-
-### 3. SIEM-to-Ticketing Integration
+### 3. SIEM-to-Ticketing Integration:
 - Generated an API key within osTicket to authorize communication from the SIEM.
 - Configured an Elastic connector using the osTicket API key to establish integration between Elastic and the ticketing platform.
 - Built and configured a webhook connector to transmit alert information to osTicket in the required format.
@@ -131,7 +129,7 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 <img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/9df80b8e-49c2-4b96-b039-74b2a3052a65" />
 <img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/0447be6f-b12c-4828-9f86-5c48c6c82d10" />
 
-### 4. Brute Force Investigation Methodology & Alert Routing
+### 4. Brute Force Investigation Methodology & Alert Routing:
 - Developed a structured investigation methodology for brute force alerts, focusing on:
   - Whether the source IP had a known malicious or suspicious history
   - Whether multiple user accounts were targeted
@@ -153,7 +151,7 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 <img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/e5aa7d1f-ecb3-4c63-8273-d4d9ef849b75" />
 <img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/813ce5e7-3d29-4b9f-ab18-35e5447c37df" />
 
-### 5. SSH & C2 Detection Rule Alert Routing
+### 5. SSH & C2 Detection Rule Alert Routing:
 - Configured the SSH brute force detection rule to automatically forward alerts into osTicket.
 - Performed controlled SSH brute force simulations and verified successful alert-to-ticket generation.
 - Configured the Mythic C2 detection rule to automatically route C2 alerts into osTicket.
@@ -174,14 +172,23 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 <img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/1fb93ace-9397-46ba-b0f3-b600631e99f2" />
 <img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/cefc66ae-52cb-4a81-a186-97864d32d764" />
 
-### 6. Endpoint Detection & Response (EDR) Deployment & Validation
+### 6. EDR Deployment & Malware Prevention Validation:
+
 - Installed and configured Elastic EDR (Elastic Defend) on the Windows endpoint.
 - Initiated a controlled malicious payload download attempt from the Mythic C2 infrastructure to validate endpoint protection.
 - Confirmed that Elastic Defend successfully prevented the malicious payload download and generated a malware prevention alert.
-- Verified that the blocked activity was visible and traceable within Elastic Discover.
-- Configured an automated response action to isolate the endpoint following a Malware Prevention Alert.
-- Repeated the controlled download attempt while monitoring endpoint connectivity through continuous ping testing.
-- Confirmed that the prevention alert triggered the automated response and isolated the endpoint, resulting in loss of network connectivity.
+- Verified that the blocked activity and associated prevention alert were visible and traceable within Elastic Discover.
+
+📌 Refer to the below screenshots: (left to right)
+
+
+
+### 7. Automated Response Action Setup & Testing:
+
+- Configured an automated response action to isolate the endpoint when a Malware Prevention Alert was generated.
+- Repeated the controlled malicious payload download attempt to trigger the configured response action.
+- Monitored endpoint connectivity through continuous ping testing during the validation.
+- Confirmed that the prevention alert triggered the automated response and successfully isolated the endpoint, resulting in loss of network connectivity.
 - Validated the complete **detection → prevention → automated response → endpoint isolation** workflow.
 
 📌 Refer to the below screenshots: (left to right)
