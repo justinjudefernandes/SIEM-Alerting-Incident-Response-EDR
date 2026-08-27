@@ -198,6 +198,7 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 <img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/9c0612d2-c5f8-427e-be8e-c3ebf469a72b" />
 
 
+
 ### 7. Automated Response Action Setup & Testing:
 
 - Configured an automated response action to isolate the endpoint when a Malware Prevention Alert was generated.
