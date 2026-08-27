@@ -196,10 +196,10 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 <img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/ff6b6468-8466-47c6-9ffd-5639f9b38a76" />
 <img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/86395ccd-4394-4a8c-9efc-30f8c5233c1b" />
 <img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/9c0612d2-c5f8-427e-be8e-c3ebf469a72b" />
-<img width="975" height="560" alt="image" src="https://github.com/user-attachments/assets/7a92ba2d-4972-47e8-9ae7-da8330fe7ab5" />
-<img width="975" height="562" alt="image" src="https://github.com/user-attachments/assets/d0c63038-5722-47de-b8b3-188d1f956746" />
-<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/0f0480cd-aaf5-4169-84cf-cb5b622173fe" />
-<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/6d9eb4a7-2c16-43ac-8bf1-46e7a3d28ce2" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/7a92ba2d-4972-47e8-9ae7-da8330fe7ab5" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/d0c63038-5722-47de-b8b3-188d1f956746" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/0f0480cd-aaf5-4169-84cf-cb5b622173fe" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/6d9eb4a7-2c16-43ac-8bf1-46e7a3d28ce2" />
 
 ### 7. Automated Response Action Setup & Testing:
 
@@ -211,9 +211,13 @@ Deployed osTicket as a centralized incident ticketing system and integrated it w
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="975" height="563" alt="image" src="https://github.com/user-attachments/assets/8ada1e58-2126-46a2-8073-1a8c13065b3b" />
-<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/66908fe7-cfac-48b0-846a-7fbd8361b58d" />
-<img width="975" height="561" alt="image" src="https://github.com/user-attachments/assets/d9020365-aa48-4ad6-b405-774374db546d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/8ada1e58-2126-46a2-8073-1a8c13065b3b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/66908fe7-cfac-48b0-846a-7fbd8361b58d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/d9020365-aa48-4ad6-b405-774374db546d" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/d6223490-bc72-450b-a05b-3afcd3e0bdbe" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/ef512f13-7c83-49a7-86a1-4be43a1d56da" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/2d7435a1-c5a5-4654-a407-e579b0c168d3" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/a915257a-60fb-4df2-afea-2516ca52eb77" />
 
 
 
